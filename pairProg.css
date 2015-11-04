@@ -1,0 +1,74 @@
+
+.background1 {
+	background-image: url("http://wallpapercave.com/wp/Wju6wF3.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+h1 {
+	text-align: center;
+	font-family: "Zapf Chancery", cursive;
+	text-decoration: underline;
+	font-size: 300%;
+}
+
+#highFive {
+	display: block;
+	padding-left: 35%;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+
+img {
+	margin-top: 100px;
+	border: solid;
+	border-color: white;
+	border-width: 50px;
+}
+
+#middleBreak {
+	display: fixed;
+	width: 100%;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+table {
+	width: 100%;
+	padding-left: 30%;
+	padding-right: 30%;	
+	padding-bottom: 25px;
+	padding-top: 25px;
+}
+
+th, td {
+	border: 1px solid black;
+	text-align: center;
+}
+
+thead td {
+	color: black;
+	font-weight: bold;
+	text-align: center;
+	background-color:beige;
+}
+
+tr:nth-child(even) {
+	color:blue;
+	background-color: lightgray;
+}
+
+#button {
+	margin-right: 40%;
+	margin-left: 38%;
+	padding-bottom: 50px;
+}
+
+button {
+	/*margin-right: 25%;*/
+	width: 300px;
+	height: 50px;
+	background-color: maroon;
+	color: white;
+}
